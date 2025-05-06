@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module3_Sepselev", "Module3_Sepselev.csproj", "{6B0538C1-55D5-499A-A996-29A7AB3AD890}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject2", "..\TestProject2\TestProject2.csproj", "{F62B2A55-A84E-4970-8ACF-3BD606B3A8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B0538C1-55D5-499A-A996-29A7AB3AD890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0538C1-55D5-499A-A996-29A7AB3AD890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0538C1-55D5-499A-A996-29A7AB3AD890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0538C1-55D5-499A-A996-29A7AB3AD890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62B2A55-A84E-4970-8ACF-3BD606B3A8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62B2A55-A84E-4970-8ACF-3BD606B3A8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62B2A55-A84E-4970-8ACF-3BD606B3A8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62B2A55-A84E-4970-8ACF-3BD606B3A8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117CED3F-8C42-4821-8E42-92BEE8B8B1DB}
+	EndGlobalSection
+EndGlobal
